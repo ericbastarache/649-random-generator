@@ -1,0 +1,5 @@
+c:\users\owner\documents\visual studio 2010\Projects\Lotto Gen V1.1.2\Lotto Gen V1.1.2\bin\Debug\Lotto Gen V1.1.2.exe
+c:\users\owner\documents\visual studio 2010\Projects\Lotto Gen V1.1.2\Lotto Gen V1.1.2\bin\Debug\Lotto Gen V1.1.2.pdb
+c:\users\owner\documents\visual studio 2010\Projects\Lotto Gen V1.1.2\Lotto Gen V1.1.2\obj\x86\Debug\Lotto Gen V1.1.2.exe
+c:\users\owner\documents\visual studio 2010\Projects\Lotto Gen V1.1.2\Lotto Gen V1.1.2\obj\x86\Debug\Lotto Gen V1.1.2.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\Lotto Gen V1.1.2\Lotto Gen V1.1.2\obj\x86\Debug\Lotto Gen V1.1.2.csprojResolveAssemblyReference.cache
